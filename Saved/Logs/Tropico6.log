@@ -1,0 +1,122 @@
+﻿[2021.08.01-01.20.00:888][  0]Log file open, 08/01/21 09:20:00
+[2021.08.01-01.20.00:888][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.08.01-01.20.00:888][  0]LogMemory: Process Physical Memory: 102.21 MB used, 102.21 MB peak
+[2021.08.01-01.20.00:888][  0]LogMemory: Process Virtual Memory: 103.27 MB used, 103.27 MB peak
+[2021.08.01-01.20.00:888][  0]LogMemory: Physical Memory: 4612.54 MB used,  11719.92 MB free, 16332.46 MB total
+[2021.08.01-01.20.00:888][  0]LogMemory: Virtual Memory: 462.71 MB used,  11719.92 MB free, 134217728.00 MB total
+[2021.08.01-01.20.03:041][  0]LogRF: BuildID: t6-#384-win64-steam@0747940 Version: v.14
+[2021.08.01-01.20.03:225][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2021.08.01-01.20.16:669][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2021.08.01-01.20.17:722][  6]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.01-01.20.17:784][  8]LogRF: ActivateMod: BP_ModPatch12
+[2021.08.01-01.20.17:784][  8]LogRF: ActivateMod: BP_ModPatch13
+[2021.08.01-01.20.17:784][  8]LogRF: ActivateMod: BP_ModPatch14
+[2021.08.01-01.20.17:784][  8]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2021.08.01-01.20.32:995][205]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.01-01.20.33:153][205]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_04/ep_Speakeasy, saveGame=Trop6_Sav_地下酒吧 1917, 四月, netmode=0
+[2021.08.01-01.20.34:253][206]LogRF: Savegame history: 
+[2021.08.01-01.35.33:863][106]LogRF: Skip autosave
+[2021.08.01-01.40.33:852][ 99]LogRF: Skip autosave
+[2021.08.01-01.55.33:853][ 44]LogRF: Skip autosave
+[2021.08.01-02.00.33:851][ 37]LogRF: Skip autosave
+[2021.08.01-02.05.33:863][ 31]LogRF: Skip autosave
+[2021.08.01-02.20.33:858][981]LogRF: Skip autosave
+[2021.08.01-02.25.33:863][973]LogRF: Skip autosave
+[2021.08.01-02.30.33:864][966]LogRF: Skip autosave
+[2021.08.01-02.35.33:848][958]LogRF: Skip autosave
+[2021.08.01-02.40.33:848][951]LogRF: Skip autosave
+[2021.08.01-02.45.33:849][944]LogRF: Skip autosave
+[2021.08.01-02.50.33:991][829]LogRF: Skip autosave
+[2021.08.01-02.55.33:990][822]LogRF: Skip autosave
+[2021.08.01-03.30.34:001][683]LogRF: Skip autosave
+[2021.08.01-04.45.33:991][189]LogRF: Skip autosave
+[2021.08.01-04.50.33:990][181]LogRF: Skip autosave
+[2021.08.01-04.55.33:995][173]LogRF: Skip autosave
+[2021.08.01-05.00.33:990][165]LogRF: Skip autosave
+[2021.08.01-05.10.33:994][127]LogRF: Skip autosave
+[2021.08.01-05.15.34:003][120]LogRF: Skip autosave
+[2021.08.01-05.20.33:995][111]LogRF: Skip autosave
+[2021.08.01-05.25.34:003][104]LogRF: Skip autosave
+[2021.08.01-05.30.33:997][ 96]LogRF: Skip autosave
+[2021.08.01-05.35.33:997][ 88]LogRF: Skip autosave
+[2021.08.01-05.40.33:996][ 80]LogRF: Skip autosave
+[2021.08.01-05.45.33:999][ 73]LogRF: Skip autosave
+[2021.08.01-05.50.34:002][ 65]LogRF: Skip autosave
+[2021.08.01-05.55.33:999][ 58]LogRF: Skip autosave
+[2021.08.01-06.00.33:991][ 51]LogRF: Skip autosave
+[2021.08.01-06.05.33:993][ 44]LogRF: Skip autosave
+[2021.08.01-06.10.33:995][ 36]LogRF: Skip autosave
+[2021.08.01-06.15.34:003][ 29]LogRF: Skip autosave
+[2021.08.01-06.20.33:992][ 21]LogRF: Skip autosave
+[2021.08.01-06.25.34:000][ 13]LogRF: Skip autosave
+[2021.08.01-06.30.33:994][  5]LogRF: Skip autosave
+[2021.08.01-06.35.34:002][998]LogRF: Skip autosave
+[2021.08.01-06.40.33:990][989]LogRF: Skip autosave
+[2021.08.01-07.40.34:000][371]LogRF: Skip autosave
+[2021.08.01-07.45.34:003][358]LogRF: Skip autosave
+[2021.08.01-07.50.33:998][344]LogRF: Skip autosave
+[2021.08.01-07.55.33:993][334]LogRF: Skip autosave
+[2021.08.01-08.00.33:991][321]LogRF: Skip autosave
+[2021.08.01-08.05.33:994][307]LogRF: Skip autosave
+[2021.08.01-08.10.33:998][295]LogRF: Skip autosave
+[2021.08.01-08.15.33:992][282]LogRF: Skip autosave
+[2021.08.01-08.20.34:005][270]LogRF: Skip autosave
+[2021.08.01-08.25.34:004][257]LogRF: Skip autosave
+[2021.08.01-08.30.33:993][244]LogRF: Skip autosave
+[2021.08.01-08.35.34:001][232]LogRF: Skip autosave
+[2021.08.01-08.40.33:993][219]LogRF: Skip autosave
+[2021.08.01-08.45.33:997][206]LogRF: Skip autosave
+[2021.08.01-08.50.33:996][195]LogRF: Skip autosave
+[2021.08.01-08.55.33:990][182]LogRF: Skip autosave
+[2021.08.01-09.00.33:993][169]LogRF: Skip autosave
+[2021.08.01-09.05.34:004][157]LogRF: Skip autosave
+[2021.08.01-09.10.33:994][144]LogRF: Skip autosave
+[2021.08.01-09.15.33:998][132]LogRF: Skip autosave
+[2021.08.01-09.20.34:002][119]LogRF: Skip autosave
+[2021.08.01-09.25.33:991][106]LogRF: Skip autosave
+[2021.08.01-09.30.33:996][ 94]LogRF: Skip autosave
+[2021.08.01-09.35.33:994][ 81]LogRF: Skip autosave
+[2021.08.01-09.40.33:991][ 68]LogRF: Skip autosave
+[2021.08.01-09.45.34:006][ 59]LogRF: Skip autosave
+[2021.08.01-09.50.33:991][ 45]LogRF: Skip autosave
+[2021.08.01-09.55.33:996][ 33]LogRF: Skip autosave
+[2021.08.01-10.00.33:997][ 20]LogRF: Skip autosave
+[2021.08.01-10.05.33:991][  7]LogRF: Skip autosave
+[2021.08.01-10.10.33:994][995]LogRF: Skip autosave
+[2021.08.01-10.15.33:993][982]LogRF: Skip autosave
+[2021.08.01-10.20.34:001][970]LogRF: Skip autosave
+[2021.08.01-10.40.33:992][800]LogRF: Skip autosave
+[2021.08.01-10.45.34:007][791]LogRF: Skip autosave
+[2021.08.01-10.50.34:001][780]LogRF: Skip autosave
+[2021.08.01-10.55.33:993][770]LogRF: Skip autosave
+[2021.08.01-11.00.33:992][760]LogRF: Skip autosave
+[2021.08.01-11.05.33:991][749]LogRF: Skip autosave
+[2021.08.01-11.10.34:001][740]LogRF: Skip autosave
+[2021.08.01-11.15.33:999][730]LogRF: Skip autosave
+[2021.08.01-11.40.33:998][373]LogRF: Skip autosave
+[2021.08.01-11.45.34:003][365]LogRF: Skip autosave
+[2021.08.01-11.50.34:001][356]LogRF: Skip autosave
+[2021.08.01-11.55.34:001][347]LogRF: Skip autosave
+[2021.08.01-12.00.33:999][338]LogRF: Skip autosave
+[2021.08.01-12.50.34:663][587]LogRF: Skip autosave
+[2021.08.01-12.55.34:675][571]LogRF: Skip autosave
+[2021.08.01-13.00.34:673][538]LogRF: Skip autosave
+[2021.08.01-13.05.34:675][514]LogRF: Skip autosave
+[2021.08.01-13.10.34:674][372]LogRF: Skip autosave
+[2021.08.01-13.15.34:666][356]LogRF: Skip autosave
+[2021.08.01-13.20.34:666][288]LogRF: Skip autosave
+[2021.08.01-13.25.34:673][262]LogRF: Skip autosave
+[2021.08.01-13.30.34:678][238]LogRF: Skip autosave
+[2021.08.01-13.35.34:671][135]LogRF: Skip autosave
+[2021.08.01-13.40.34:668][ 94]LogRF: Skip autosave
+[2021.08.01-13.45.34:670][ 61]LogRF: Skip autosave
+[2021.08.01-13.50.34:668][ 25]LogRF: Skip autosave
+[2021.08.01-13.56.39:494][580]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2021.08.01-13.57.16:745][573]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_08/EP_BetterRedThanDead, saveGame=, netmode=0
+[2021.08.01-14.22.17:311][414]LogRF: Skip autosave
+[2021.08.01-14.27.17:303][403]LogRF: Skip autosave
+[2021.08.01-14.32.17:314][393]LogRF: Skip autosave
+[2021.08.01-14.37.17:305][382]LogRF: Skip autosave
+[2021.08.01-14.42.17:316][372]LogRF: Skip autosave
+[2021.08.01-14.47.17:309][361]LogRF: Skip autosave
+[2021.08.01-14.52.17:301][352]LogRF: Skip autosave
