@@ -1,0 +1,20 @@
+﻿[2021.08.04-04.33.07:623][  0]Log file open, 08/04/21 12:33:07
+[2021.08.04-04.33.07:623][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.08.04-04.33.07:623][  0]LogMemory: Process Physical Memory: 102.06 MB used, 102.06 MB peak
+[2021.08.04-04.33.07:623][  0]LogMemory: Process Virtual Memory: 97.54 MB used, 97.54 MB peak
+[2021.08.04-04.33.07:623][  0]LogMemory: Physical Memory: 20105.81 MB used,  28974.18 MB free, 49079.99 MB total
+[2021.08.04-04.33.07:623][  0]LogMemory: Virtual Memory: 4537.16 MB used,  28974.18 MB free, 134217728.00 MB total
+[2021.08.04-04.33.10:784][  0]LogRF: BuildID: t6-#384-win64-steam@0747940 Version: v.14
+[2021.08.04-04.33.12:862][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2021.08.04-04.33.45:524][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2021.08.04-04.33.47:448][  7]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.04-04.33.47:518][  9]LogRF: ActivateMod: BP_ModPatch12
+[2021.08.04-04.33.47:518][  9]LogRF: ActivateMod: BP_ModPatch13
+[2021.08.04-04.33.47:518][  9]LogRF: ActivateMod: BP_ModPatch14
+[2021.08.04-04.33.47:518][  9]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2021.08.04-04.39.07:025][245]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.04-04.39.07:372][245]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_08/EP_BetterRedThanDead, saveGame=Trop6_Sav_革命救国 1988, 十月, netmode=0
+[2021.08.04-04.39.10:154][246]LogRF: Savegame history: 
+[2021.08.04-05.09.31:527][548]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2021.08.04-05.09.46:208][174]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_06/EP_ChocolateFactory, saveGame=, netmode=0
+[2021.08.04-05.43.00:741][453]Log file closed, 08/04/21 13:43:00
