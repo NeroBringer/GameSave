@@ -1,0 +1,35 @@
+﻿[2021.08.06-14.45.06:878][  0]Log file open, 08/06/21 22:45:06
+[2021.08.06-14.45.06:878][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.08.06-14.45.06:878][  0]LogMemory: Process Physical Memory: 101.60 MB used, 101.60 MB peak
+[2021.08.06-14.45.06:878][  0]LogMemory: Process Virtual Memory: 102.93 MB used, 102.93 MB peak
+[2021.08.06-14.45.06:878][  0]LogMemory: Physical Memory: 5511.91 MB used,  10820.55 MB free, 16332.46 MB total
+[2021.08.06-14.45.06:878][  0]LogMemory: Virtual Memory: 456.30 MB used,  10820.55 MB free, 134217728.00 MB total
+[2021.08.06-14.45.09:178][  0]LogRF: BuildID: t6-#384-win64-steam@0747940 Version: v.14
+[2021.08.06-14.45.09:349][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2021.08.06-14.45.28:087][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2021.08.06-14.45.29:137][  7]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.06-14.45.29:194][  9]LogRF: ActivateMod: BP_ModPatch12
+[2021.08.06-14.45.29:194][  9]LogRF: ActivateMod: BP_ModPatch13
+[2021.08.06-14.45.29:194][  9]LogRF: ActivateMod: BP_ModPatch14
+[2021.08.06-14.45.29:194][  9]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2021.08.06-14.45.47:348][563]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.06-14.45.47:572][563]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_06/EP_ChocolateFactory, saveGame=Trop6_Sav_巧克力工厂 2002, 九月, netmode=0
+[2021.08.06-14.45.49:061][564]LogRF: Savegame history: t6-#384-win64-steam@0747940, t6-#384-win64-steam@0747940
+[2021.08.06-14.58.58:394][714]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2021.08.06-14.59.11:008][256]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_08/EP_BetterRedThanDead, saveGame=, netmode=0
+[2021.08.06-15.19.11:522][119]LogRF: Skip autosave
+[2021.08.06-15.24.11:531][113]LogRF: Skip autosave
+[2021.08.06-15.44.11:538][ 21]LogRF: Skip autosave
+[2021.08.06-15.49.11:532][ 13]LogRF: Skip autosave
+[2021.08.06-15.54.11:523][  5]LogRF: Skip autosave
+[2021.08.06-15.59.11:534][998]LogRF: Skip autosave
+[2021.08.06-16.04.11:523][886]LogRF: Skip autosave
+[2021.08.06-16.08.51:622][876]LogRF: Skip autosave
+[2021.08.06-16.13.51:629][867]LogRF: Skip autosave
+[2021.08.06-16.18.51:621][857]LogRF: Skip autosave
+[2021.08.06-16.23.51:628][849]LogRF: Skip autosave
+[2021.08.06-16.42.41:872][571]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_08/EP_BetterRedThanDead.EP_BetterRedThanDead:PersistentLevel.BP_T6StorageQuay_604.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_08/EP_BetterRedThanDead.EP_BetterRedThanDead:PersistentLevel.BP_T6StorageQuay_604.Crane' which is static to it. Aborting.
+[2021.08.06-17.23.51:627][485]LogRF: Skip autosave
+[2021.08.06-17.28.51:627][477]LogRF: Skip autosave
+[2021.08.06-18.03.51:628][239]LogRF: Skip autosave
+[2021.08.06-18.08.51:615][230]LogRF: Skip autosave

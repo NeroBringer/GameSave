@@ -1,0 +1,101 @@
+﻿[2021.08.07-06.08.49:675][  0]Log file open, 08/07/21 14:08:49
+[2021.08.07-06.08.49:675][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.08.07-06.08.49:675][  0]LogMemory: Process Physical Memory: 102.07 MB used, 102.07 MB peak
+[2021.08.07-06.08.49:675][  0]LogMemory: Process Virtual Memory: 102.56 MB used, 102.56 MB peak
+[2021.08.07-06.08.49:675][  0]LogMemory: Physical Memory: 4605.64 MB used,  11726.83 MB free, 16332.46 MB total
+[2021.08.07-06.08.49:675][  0]LogMemory: Virtual Memory: 467.47 MB used,  11726.83 MB free, 134217728.00 MB total
+[2021.08.07-06.08.51:755][  0]LogRF: BuildID: t6-#384-win64-steam@0747940 Version: v.14
+[2021.08.07-06.08.51:928][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2021.08.07-06.09.07:236][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2021.08.07-06.09.08:239][  6]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.07-06.09.08:300][  8]LogRF: ActivateMod: BP_ModPatch12
+[2021.08.07-06.09.08:300][  8]LogRF: ActivateMod: BP_ModPatch13
+[2021.08.07-06.09.08:300][  8]LogRF: ActivateMod: BP_ModPatch14
+[2021.08.07-06.09.08:300][  8]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2021.08.07-06.09.25:693][352]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.07-06.09.25:940][352]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_08/EP_BetterRedThanDead, saveGame=Trop6_Sav_革命救国 1972, 十一月, netmode=0
+[2021.08.07-06.09.27:351][353]LogRF: Savegame history: 
+[2021.08.07-06.19.26:944][269]LogRF: Skip autosave
+[2021.08.07-06.24.26:956][261]LogRF: Skip autosave
+[2021.08.07-06.29.26:949][254]LogRF: Skip autosave
+[2021.08.07-06.34.26:956][246]LogRF: Skip autosave
+[2021.08.07-06.39.26:953][238]LogRF: Skip autosave
+[2021.08.07-06.44.26:942][229]LogRF: Skip autosave
+[2021.08.07-06.49.26:954][222]LogRF: Skip autosave
+[2021.08.07-06.54.26:946][214]LogRF: Skip autosave
+[2021.08.07-06.59.26:955][208]LogRF: Skip autosave
+[2021.08.07-07.04.26:954][201]LogRF: Skip autosave
+[2021.08.07-07.09.26:953][193]LogRF: Skip autosave
+[2021.08.07-07.14.26:944][186]LogRF: Skip autosave
+[2021.08.07-07.19.26:949][179]LogRF: Skip autosave
+[2021.08.07-07.24.26:950][172]LogRF: Skip autosave
+[2021.08.07-07.29.26:948][165]LogRF: Skip autosave
+[2021.08.07-07.34.26:946][158]LogRF: Skip autosave
+[2021.08.07-07.39.26:949][151]LogRF: Skip autosave
+[2021.08.07-07.54.26:942][ 95]LogRF: Skip autosave
+[2021.08.07-07.59.26:943][ 87]LogRF: Skip autosave
+[2021.08.07-08.04.26:945][ 79]LogRF: Skip autosave
+[2021.08.07-08.09.26:953][ 73]LogRF: Skip autosave
+[2021.08.07-08.14.26:951][ 64]LogRF: Skip autosave
+[2021.08.07-09.04.26:944][713]LogRF: Skip autosave
+[2021.08.07-09.09.26:949][703]LogRF: Skip autosave
+[2021.08.07-09.14.26:942][693]LogRF: Skip autosave
+[2021.08.07-09.19.26:954][683]LogRF: Skip autosave
+[2021.08.07-09.24.26:952][673]LogRF: Skip autosave
+[2021.08.07-09.29.26:946][665]LogRF: Skip autosave
+[2021.08.07-09.34.26:944][654]LogRF: Skip autosave
+[2021.08.07-09.39.26:950][644]LogRF: Skip autosave
+[2021.08.07-09.44.26:957][635]LogRF: Skip autosave
+[2021.08.07-09.49.26:946][624]LogRF: Skip autosave
+[2021.08.07-09.54.26:947][615]LogRF: Skip autosave
+[2021.08.07-09.59.26:942][607]LogRF: Skip autosave
+[2021.08.07-10.04.26:947][598]LogRF: Skip autosave
+[2021.08.07-10.09.26:955][588]LogRF: Skip autosave
+[2021.08.07-10.14.26:956][579]LogRF: Skip autosave
+[2021.08.07-10.19.26:950][569]LogRF: Skip autosave
+[2021.08.07-10.24.26:954][559]LogRF: Skip autosave
+[2021.08.07-10.29.26:951][548]LogRF: Skip autosave
+[2021.08.07-10.34.26:956][539]LogRF: Skip autosave
+[2021.08.07-10.39.26:953][529]LogRF: Skip autosave
+[2021.08.07-10.44.26:948][519]LogRF: Skip autosave
+[2021.08.07-10.49.26:942][508]LogRF: Skip autosave
+[2021.08.07-10.54.26:951][500]LogRF: Skip autosave
+[2021.08.07-10.59.26:957][490]LogRF: Skip autosave
+[2021.08.07-11.04.26:944][479]LogRF: Skip autosave
+[2021.08.07-11.09.26:943][468]LogRF: Skip autosave
+[2021.08.07-11.14.26:950][459]LogRF: Skip autosave
+[2021.08.07-11.19.26:952][449]LogRF: Skip autosave
+[2021.08.07-11.24.26:955][439]LogRF: Skip autosave
+[2021.08.07-11.29.26:955][429]LogRF: Skip autosave
+[2021.08.07-11.34.26:948][419]LogRF: Skip autosave
+[2021.08.07-11.39.26:951][410]LogRF: Skip autosave
+[2021.08.07-11.44.26:950][399]LogRF: Skip autosave
+[2021.08.07-11.49.26:952][391]LogRF: Skip autosave
+[2021.08.07-11.54.26:957][381]LogRF: Skip autosave
+[2021.08.07-11.59.26:949][371]LogRF: Skip autosave
+[2021.08.07-12.04.26:957][362]LogRF: Skip autosave
+[2021.08.07-12.09.26:952][352]LogRF: Skip autosave
+[2021.08.07-12.14.26:957][342]LogRF: Skip autosave
+[2021.08.07-12.19.26:952][331]LogRF: Skip autosave
+[2021.08.07-12.24.26:951][322]LogRF: Skip autosave
+[2021.08.07-12.29.26:955][313]LogRF: Skip autosave
+[2021.08.07-12.34.26:957][304]LogRF: Skip autosave
+[2021.08.07-12.39.26:950][294]LogRF: Skip autosave
+[2021.08.07-12.44.26:951][287]LogRF: Skip autosave
+[2021.08.07-12.49.26:955][277]LogRF: Skip autosave
+[2021.08.07-12.54.26:948][268]LogRF: Skip autosave
+[2021.08.07-12.59.26:948][259]LogRF: Skip autosave
+[2021.08.07-13.04.26:957][251]LogRF: Skip autosave
+[2021.08.07-13.09.26:959][241]LogRF: Skip autosave
+[2021.08.07-13.14.26:949][231]LogRF: Skip autosave
+[2021.08.07-13.19.26:952][222]LogRF: Skip autosave
+[2021.08.07-13.24.26:949][212]LogRF: Skip autosave
+[2021.08.07-13.29.26:951][203]LogRF: Skip autosave
+[2021.08.07-13.34.26:951][192]LogRF: Skip autosave
+[2021.08.07-13.54.26:944][ 52]LogRF: Skip autosave
+[2021.08.07-13.59.26:953][ 44]LogRF: Skip autosave
+[2021.08.07-14.02.12:743][983]LogBuilding: Error: Entrance of the building 'BP_T6NuclearPowerPlant_C_0' in an Impassable cell, this will make pathfinder slower.
+[2021.08.07-14.14.57:426][631]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2021.08.07-14.15.53:128][784]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_05/ep_Pirateking, saveGame=, netmode=0
+[2021.08.07-15.35.10:275][713]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_05/ep_Pirateking.EP_PirateKing:PersistentLevel.BP_T6Dock_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_05/ep_Pirateking.EP_PirateKing:PersistentLevel.BP_T6Dock_C_0.Crane' which is static to it. Aborting.
+[2021.08.07-15.35.10:291][713]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_05/ep_Pirateking.EP_PirateKing:PersistentLevel.BP_T6Dock_650.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_05/ep_Pirateking.EP_PirateKing:PersistentLevel.BP_T6Dock_650.Crane' which is static to it. Aborting.

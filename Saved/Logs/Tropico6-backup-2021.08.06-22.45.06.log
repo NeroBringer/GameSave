@@ -1,0 +1,23 @@
+﻿[2021.08.06-04.18.19:354][  0]Log file open, 08/06/21 12:18:19
+[2021.08.06-04.18.19:354][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.08.06-04.18.19:354][  0]LogMemory: Process Physical Memory: 101.59 MB used, 101.59 MB peak
+[2021.08.06-04.18.19:354][  0]LogMemory: Process Virtual Memory: 97.82 MB used, 97.82 MB peak
+[2021.08.06-04.18.19:354][  0]LogMemory: Physical Memory: 24294.46 MB used,  24785.54 MB free, 49079.99 MB total
+[2021.08.06-04.18.19:354][  0]LogMemory: Virtual Memory: 4533.76 MB used,  24785.54 MB free, 134217728.00 MB total
+[2021.08.06-04.18.22:442][  0]LogRF: BuildID: t6-#384-win64-steam@0747940 Version: v.14
+[2021.08.06-04.18.23:590][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2021.08.06-04.18.55:537][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2021.08.06-04.18.57:425][  3]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.06-04.18.57:520][  5]LogRF: ActivateMod: BP_ModPatch12
+[2021.08.06-04.18.57:520][  5]LogRF: ActivateMod: BP_ModPatch13
+[2021.08.06-04.18.57:520][  5]LogRF: ActivateMod: BP_ModPatch14
+[2021.08.06-04.18.57:520][  5]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2021.08.06-04.19.44:576][864]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.06-04.19.44:885][864]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_06/EP_ChocolateFactory, saveGame=Trop6_Sav_巧克力工厂 1985, 三月, netmode=0
+[2021.08.06-04.19.46:765][865]LogRF: Savegame history: t6-#384-win64-steam@0747940
+[2021.08.06-04.20.29:202][254]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2021.08.06-04.20.39:304][588]LogRF: Loading a save done on build: t6-#384-win64-steam@0747940
+[2021.08.06-04.20.39:497][588]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_06/EP_ChocolateFactory, saveGame=Trop6_Sav_巧克力工厂 1985, 三月, netmode=0
+[2021.08.06-04.20.40:529][589]LogRF: Savegame history: t6-#384-win64-steam@0747940
+[2021.08.06-04.52.41:842][615]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_06/EP_ChocolateFactory.EP_ChocolateFactory:PersistentLevel.BP_T6Dock_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_06/EP_ChocolateFactory.EP_ChocolateFactory:PersistentLevel.BP_T6Dock_C_0.Crane' which is static to it. Aborting.
+[2021.08.06-05.34.31:349][763]Log file closed, 08/06/21 13:34:31
